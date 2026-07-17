@@ -1,23 +1,32 @@
 # 👋 Hola, soy José Contreras
 
-Frontend Developer apasionado por crear aplicaciones web modernas, escalables y con una buena experiencia de usuario.
+Soy **Ingeniero en Sistemas Computacionales** y desarrollador **Full Stack** con más de **2 años de experiencia** construyendo aplicaciones web.
 
-Actualmente trabajo principalmente con **Vue.js**, **Laravel** y **JavaScript**, aunque también tengo experiencia desarrollando aplicaciones con **React**, **Nuxt** y **TypeScript**.
+Durante este tiempo he trabajado principalmente con **Laravel**, **PHP**, **Vue.js** y **SQL Server**, desarrollando y manteniendo aplicaciones empresariales, integrando APIs, implementando arquitecturas MVC/OOP y optimizando procesos.
+
+Disfruto especialmente el desarrollo **Frontend**, donde puedo combinar la lógica de programación con el diseño de interfaces intuitivas y una buena experiencia de usuario. Siempre estoy buscando aprender nuevas tecnologías y aplicar buenas prácticas para crear aplicaciones escalables y mantenibles.
 
 ---
 
 ## 🚀 Tecnologías
 
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=vue,nuxt,react,laravel,php,js,ts,bootstrap,tailwind,mysql,git)](https://skillicons.dev)
+
+### Otras tecnologías
+
+- SQL Server
+
+- REST APIs
+
+- MVC
+
+- Programación Orientada a Objetos (OOP)
+
+- Git
+
+- Vite
+
+- Pinia
 
 ---
 
