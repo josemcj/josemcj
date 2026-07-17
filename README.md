@@ -40,7 +40,7 @@ Aplicación desarrollada con **Vue 3**, **Pinia**, **BootstrapVueNext** y **Mock
 ---
 
 ### 🛍 My Brand App
-Aplicación desarrollada con **Vue** para traducir un diseño a código, incluyendo un backend para la gestión de comentarios.
+Aplicación desarrollada con **Vue** en donde convertí en código el diseño proporcionado mediante imágenes, incluyendo un backend para la gestión de comentarios.
 
 🔗 https://github.com/josemcj/my-brand-app
 
@@ -61,14 +61,14 @@ Aplicación desarrollada con **React** y **TailwindCSS** para la administración
 ---
 
 ### 📄 Simple Forms
-Librería desarrollada en **JavaScript Vanilla** para facilitar la creación y validación de formularios.
+Librería desarrollada en **JavaScript Vanilla** para facilitar el manejo de formularios.
 
 🔗 https://github.com/josemcj/simple-forms
 
 ---
 
 ### 💰 Control de Gastos
-Aplicación desarrollada con **React** para administrar un presupuesto, registrando ingresos y gastos.
+Aplicación desarrollada con **React** para administrar un presupuesto, registrando ingresos y egresos.
 
 🔗 https://github.com/josemcj/control-gastos-react
 
